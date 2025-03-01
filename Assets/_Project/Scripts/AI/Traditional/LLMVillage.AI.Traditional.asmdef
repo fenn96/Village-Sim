@@ -1,12 +1,10 @@
 {
-    "name": "LLMVillage.Villagers",
+    "name": "LLMVillage.AI.Traditional",
     "rootNamespace": "",
     "references": [
         "GUID:198b0c96645345249b4f163343335dfd",
         "GUID:4bbde48c2dd26364ca262f8f5389f63d",
-        "GUID:15b0d7f98388cfe41a05348754f1a64c",
-        "GUID:4df8dcfbf7d18894f98d2d5cc58384c5",
-        "GUID:d3e28710f01c9494db82ddb60f3b7fc6"
+        "GUID:4df8dcfbf7d18894f98d2d5cc58384c5"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
