@@ -1,0 +1,16 @@
+{
+    "name": "LLMVillage.Managers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:198b0c96645345249b4f163343335dfd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
